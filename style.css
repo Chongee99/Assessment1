@@ -1,4 +1,4 @@
-html, body {background: #918D90; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #F55D3E;}
+html, body {background: #918D90; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #110704;}
 
 .clear {clear: both;}
 
@@ -8,7 +8,6 @@ p {
     line-height: 1.4em;
     margin-left: 50px;
 	margin-bottom: 20px;
-    color: #709CD1;
    
 }
 article {
