@@ -4,8 +4,9 @@ html, body {background: #0B132B; font-family: 'Lato', helvetica, arial, sans-ser
 
 p {
 	font-size: 1em;
-	line-height: 1.4em;
+    line-height: 1.4em;
+    margin-left: 50px;
 	margin-bottom: 20px;
     color: #709CD1;
-    margin-left: 50px;
+   
 }
