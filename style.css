@@ -7,7 +7,7 @@ p {
     font-size: 1em;
     line-height: 1.4em;
     padding-left: 40px;
-   
+    
 }
 article {
     padding-left: 300px;
@@ -37,9 +37,7 @@ body {
     padding-right: 400px;
     
 }
-
-.JobImage {
+#link1 {
     padding-left: 30px;
-    padding-right: 30px;
-    float: left;
 }
+
