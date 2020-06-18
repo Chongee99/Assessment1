@@ -3,19 +3,17 @@ html, body, head, li {background: #22162B; font-family: 'Lato', helvetica, arial
 .clear {clear: both;}
 
 p {
-    padding: -10px 0 30px;
+    padding: 30px;
     font-size: 1em;
     line-height: 1.4em;
+    padding-right: 200px;
    
 }
 article {
     padding: 20px 0 0;
     margin: 20px 20px 50px 0;
 }
-body{
-    margin-right: 50px;
-    float: left;
-}
+
 h2{
     margin-left: 101px;
 }
@@ -31,5 +29,12 @@ h2{
 	max-width: 800px;
 	background: #1C2541;
     margin: 30px auto;
-    float: right;
+    float: left;
+    border-right: 500px;
 }
+
+body {
+    padding-right: 400px;
+    
+}
+
