@@ -2,6 +2,11 @@ html, body, head, li {background: #22162B; font-family: 'Lato', helvetica, arial
 
 .clear {clear: both;}
 
+html{
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
 p {
     padding: 30px;
     font-size: 1em;
@@ -34,7 +39,7 @@ h2{
 }
 
 body {
-    padding-right: 400px;
+    padding-right: 40px;
     
 }
 #link1 {
