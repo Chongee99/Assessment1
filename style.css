@@ -1,9 +1,19 @@
-html, body, head, li {background: #22162B; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #AAC0AA;}
+html, body, head, li {background: #003049; font-family: 'Lato', helvetica, arial, sans-serif; font-size: 16px; color: #D0DCD0;}
 
 .clear {clear: both;}
 
+body,li {
+    background-color: #F33B16 ;
+    border-radius: 25px;
+    margin: 15px;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
 html{
-    padding-left: 100px;
+    padding-left: 120px;
     padding-right: 100px;
 }
 
@@ -11,14 +21,9 @@ p {
     padding: 30px;
     font-size: 1em;
     line-height: 1.4em;
-    padding-left: 40px;
+    padding-left: 50px;
     
 }
-article {
-    padding-left: 300px;
-    margin-bottom: 300px;
-}
-
 h2{
     margin-left: 101px;
 }
@@ -45,4 +50,9 @@ body {
 #link1 {
     padding-left: 30px;
 }
+aside {
+    float: left;
+    padding-bottom: 50px;
+    border-bottom: 50px;
 
+}
