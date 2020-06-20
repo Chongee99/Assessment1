@@ -2,30 +2,33 @@ html, body, head, li {background: #003049; font-family: 'Lato', helvetica, arial
 
 .clear {clear: both;}
 
-body,li {
+body{
     background-color: #F33B16 ;
     border-radius: 25px;
-    margin: 15px;
+    margin-left: 120px;
+    margin-right: 100px;
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
+
 
 h1 {
     padding-top: 20px;
+    color: yellowgreen;
 }
 
-html{
-    padding-left: 120px;
-    padding-right: 100px;
-}
 
 p {
     padding: 30px;
     font-size: 1em;
     line-height: 1.4em;
-    padding-left: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
     
 }
 h2{
     margin-left: 101px;
+    color: yellowgreen;
 }
    
 .img-circle {
@@ -45,6 +48,7 @@ h2{
 
 body {
     padding-right: 40px;
+    padding-left: 40px;
     
 }
 #link1 {
@@ -55,4 +59,31 @@ aside {
     padding-bottom: 50px;
     border-bottom: 50px;
 
+}
+ul {
+    list-style-type: none;
+    margin-left: 10px;
+    padding: 10px;
+    overflow: hidden;
+  }
+  li {
+    display: block;
+    text-align: center;
+    padding: 10px;
+    display: inline;
+    background-color: teal;
+    border-radius: 3px;
+    text-decoration: none;
+  }
+  li :hover {
+    background-color: #111;
+    margin: 10px;
+  }
+.pic1 {
+margin: 30px;
+border-radius: 2%;
+display: inline;
+}
+.job{
+    float: left;
 }
